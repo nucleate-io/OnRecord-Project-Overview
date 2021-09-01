@@ -10,3 +10,9 @@ Upon signing up and completing the form, users will be taken to the home page of
 
 ![App Home](App_Home.png)
 
+This page shows the graph-based interface that is central to most of the apps functionality. 
+The central node always remains fixed, with peripheral nodes floating nearby, spaced around the central node according to the nubmer of nodes. 
+This interface was entirely custom, and was implemented larely using Framer Motion, which allowed us to create entrance/exit animations and subtle
+floating animations that make the interface seem natural and welcoming. 
+
+
