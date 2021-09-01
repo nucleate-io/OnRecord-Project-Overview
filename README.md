@@ -62,9 +62,21 @@ Here, you can add links to your social media pages. Accepted platforms are Faceb
 Here you can paste your profile link to any of the supported platforms, and the modal detects the platform, highlights it, and allows you to add it. If it doesn't match any of the supported platforms, it's not allowed. This is just one of many modals on the site, as much of the site's interaction is through dialogs like this one, such as file sharing, competition submission, band feedback, and a lot more.
 
 
+
 ## Competitions
 ![Competitions Home](Competitions_Home.png)
 
-Through the sidebar menu, you could access the competitions page
+Through the sidebar menu, you could access the competitions page, where users can see details about the upcoming competition. Just below, they will see any projects they have that have been submitted to a competition
+
+#### User Submissions
+![User Submissions](Competition_Song_Submissions.png)
+
+Songs that have been submitted and are awaiting the submission deadline display with a countdown timer indicating when they can come back to vote. Submissions that have been submitted to a competition that is open for voting will dispay a "vote now" button
+
+
+### Voting Page
+![Voting Page](Voting_Page.png)
+
+
 
 
