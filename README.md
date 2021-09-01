@@ -63,6 +63,8 @@ Here you can paste your profile link to any of the supported platforms, and the 
 
 
 ## Competitions
-Through the 
+![Competitions Home](Competitions_Home.png)
+
+Through the sidebar menu, you could access the competitions page
 
 
