@@ -8,6 +8,8 @@ Most functionality is behind signup, so below are a few screenshots of the diffe
 *Note: All of these screenshots were taken on a demo version, none of these users are real, and the info on the admin panel does not reflect the status of the production version*
 (I'm actively working on this, More will be coming shortly)
 
+<br/><br/>
+
 # The Interface
 
 ### Home Screen
@@ -61,7 +63,7 @@ Here, you can add links to your social media pages. Accepted platforms are Faceb
 ![Social Media Modal](Social_Media_Modal.png)
 Here you can paste your profile link to any of the supported platforms, and the modal detects the platform, highlights it, and allows you to add it. If it doesn't match any of the supported platforms, it's not allowed. This is just one of many modals on the site, as much of the site's interaction is through dialogs like this one, such as file sharing, competition submission, band feedback, and a lot more.
 
-
+<br/>
 
 ## Competitions
 ![Competitions Home](Competitions_Home.png)
@@ -81,5 +83,18 @@ Voting is done by ranked choice, and uses this custom list of drag-and-drop play
 
 If there were multiple voting groups (more than 9 submissions made to the competition), then the competition will have mulitple rounds, taking the top 3 from each voting group into the next round, doing so until there is only one voting group left. The top 3 songs in the final round will be the winners of the competition.
 
+<br/><br/>
 
+# Project Overview
+
+### Proposal
+OnRecord came to us with the concept of a socila media app for musical collaboration. They had run a similar program in person on a few college campuses for a few years prior, and felt it was time to expand the project. 
+
+They hoped to build
+- A nice landing page to attract new users
+- A clean & intuitive user interface that prioritized
+  - User signup & entry into matching pool
+  - Band interaction and communication
+  - Competition signup & voting
+- A custom, parameterized matching algorithm to create bands based on skills and musical interests
 
