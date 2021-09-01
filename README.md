@@ -29,7 +29,7 @@ The peripheral nodes on this page represent bands that you have been matched int
 
 ![Band Page](Band_Page.png)
 
-The band page is where you communicate and share files with your bandmates. Clicking on the band node opens up a modal which allows you to change the name of the band, edit the band's colors (name and colors randomly assigned on creation), leave the band, or report users for misconduct.
+The **Band Page** is where you communicate and share files with your bandmates. Clicking on the band node opens up a modal which allows you to change the name of the band, edit the band's colors (name and colors randomly assigned on creation), leave the band, or report users for misconduct.
 
 Hovering over a member node will show when they were last on the site. Clicking on a member node opens a modal with their basic profile info (skills, genres of interest, bio, social meida)
 
@@ -38,5 +38,15 @@ In the bottom right, there is a chat window, which allows them to communicate wi
 ![Band Chat](Band_Page_w_Chat.png)
 
 
-### Profile Page
-From the **Home screen**, you can click on the 
+### Profile Main Page
+From the **Home Screen**, you can click on the profile node (central) to get to the profile edit page.
+
+![Profile Page](Edit_Profile.png)
+
+From here you can update your profile picture and get to your bio edit page and social media page
+
+#### Profile Edit Page
+
+![Profile Page](Bio_Page.png)
+
+Here you can give yourself a bio that your bandmates can see, and you can toggle email notifications.
