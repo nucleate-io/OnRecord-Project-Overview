@@ -46,7 +46,16 @@ From the **Home Screen**, you can click on the profile node (central) to get to 
 From here you can update your profile picture and get to your bio edit page and social media page
 
 #### Profile Edit Page
-
 ![Profile Page](Bio_Page.png)
 
 Here you can give yourself a bio that your bandmates can see, and you can toggle email notifications.
+
+
+### Social Media Page
+![Social Media Page](Social_Media.png)
+
+Here, you can add links to your social media pages. Accepted platforms are Facebook, YouTube, SoundCloud, & Spotify. Clicking on 'Connect' in the empty node or 'Update' in one of the existing nodes opens up a modal.
+
+![Social Media Modal](Social_Media_Modal.png)
+Here you can paste your profile link to any of the supported platforms, and the modal detects the platform, highlights it and allows you to add it. If it doesn't match any of the supported platforms, it's not allowed. This just one of many modals on the site, as much of the site's interaction is through dialogs like this one, such as file sharing, competition submission, band feedback, and a lot more.
+
