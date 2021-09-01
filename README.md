@@ -88,7 +88,7 @@ If there were multiple voting groups (more than 9 submissions made to the compet
 # Project Overview
 
 ### Proposal
-OnRecord came to us with the concept of a socila media app for musical collaboration. They had run a similar program in person on a few college campuses for a few years prior, and felt it was time to expand the project. 
+OnRecord came to us with a concept for a socila media app for musical collaboration. The idea was to have musicians to sign up, indicating their musical skills and genres of interest in the form, and then match them into time-limited groups, allowing them to collaborate for a couple of weeks, enter competitions with their groups as they please, and get matched with new people when those groups dissolve. They had run a similar program in person on a few college campuses for a few years prior, and felt it was time to expand the project. 
 
 They hoped to build
 - A nice landing page to attract new users
@@ -96,5 +96,6 @@ They hoped to build
   - User signup & entry into matching pool
   - Band interaction and communication
   - Competition signup & voting
+- An in-app currency used to get matches, enter competitions, and become prize-eligible for competitions
 - A custom, parameterized matching algorithm to create bands based on skills and musical interests
 
