@@ -8,6 +8,8 @@ Most functionality is behind signup, so below are a few screenshots of the diffe
 *Note: All of these screenshots were taken on a demo version, none of these users are real, and the info on the admin panel does not reflect the status of the production version*
 (I'm actively working on this, More will be coming shortly)
 
+# The Interface
+
 ### Home Screen
 Upon signing up and completing the form, users will be taken to the home screen of the app
 
@@ -58,5 +60,9 @@ Here, you can add links to your social media pages. Accepted platforms are Faceb
 
 ![Social Media Modal](Social_Media_Modal.png)
 Here you can paste your profile link to any of the supported platforms, and the modal detects the platform, highlights it, and allows you to add it. If it doesn't match any of the supported platforms, it's not allowed. This is just one of many modals on the site, as much of the site's interaction is through dialogs like this one, such as file sharing, competition submission, band feedback, and a lot more.
+
+
+## Competitions
+Through the 
 
 
