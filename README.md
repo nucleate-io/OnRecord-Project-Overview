@@ -1,16 +1,17 @@
 # OnRecord-Project-Overview
 Overview of our work with OnRecord
 
-Live site is available at [onrecord.online](https://onrecord.online/)
+Live site is available at [onrecord.online](https://onrecord.online/), however, most functionality is behind signup, so below are a few screenshots of the different pages.
 
-Most functionality is behind signup, so below are a few screenshots of the different pages.
-
-*Note: All of these screenshots were taken on a demo version, none of these users are real, and the info on the admin panel does not reflect the status of the production version*
 (I'm actively working on this, More will be coming shortly)
-
 <br/><br/>
 
+
+
+<!-- <br/><br/> -->
 # The Interface
+*Note: All of these screenshots were taken on a demo version, none of these users are real, and the info on the admin panel does not reflect the status of the production version*
+<br/>
 
 ### Home Screen
 Upon signing up and completing the form, users will be taken to the home screen of the app
@@ -28,6 +29,7 @@ match will come soon. Once in the pool, they will be included next time the algo
 to be included in a manually created band.
 
 The peripheral nodes on this page represent bands that you have been matched into. Clicking on it will take the user to that band's page.
+<br/><br/>
 
 ### Band Page
 
@@ -40,7 +42,7 @@ Hovering over a member node will show when they were last on the site. Clicking 
 In the bottom right, there is a chat window, which allows them to communicate with their bandmates, share file, and submit their completed project to the next competition.
 
 ![Band Chat](Band_Page_w_Chat.png)
-
+<br/><br/>
 
 ### Profile Main Page
 From the **Home Screen**, you can click on the profile node (central) to get to the profile edit page.
@@ -48,12 +50,13 @@ From the **Home Screen**, you can click on the profile node (central) to get to 
 ![Profile Page](Edit_Profile.png)
 
 From here you can update your profile picture and get to your bio edit page and social media page
+<br/><br/>
 
 #### Profile Edit Page
 ![Profile Page](Bio_Page.png)
 
 Here you can give yourself a bio that your bandmates can see, and you can toggle email notifications.
-
+<br/><br/>
 
 ### Social Media Page
 ![Social Media Page](Social_Media.png)
@@ -63,18 +66,19 @@ Here, you can add links to your social media pages. Accepted platforms are Faceb
 ![Social Media Modal](Social_Media_Modal.png)
 Here you can paste your profile link to any of the supported platforms, and the modal detects the platform, highlights it, and allows you to add it. If it doesn't match any of the supported platforms, it's not allowed. This is just one of many modals on the site, as much of the site's interaction is through dialogs like this one, such as file sharing, competition submission, band feedback, and a lot more.
 
-<br/>
+<br/><br/>
 
 ## Competitions
 ![Competitions Home](Competitions_Home.png)
 
 Through the sidebar menu, you could access the competitions page, where users can see details about the upcoming competition. Just below, they will see any projects they have that have been submitted to a competition
+<br/><br/>
 
 #### User Submissions
 ![User Submissions](Competition_Song_Submissions.png)
 
 Songs that have been submitted and are awaiting the submission deadline display with a countdown timer indicating when they can come back to vote. Submissions that have been submitted to a competition that is open for voting will dispay a "vote now" button
-
+<br/><br/>
 
 ### Voting Page
 ![Voting Page](Voting_Page.png)
@@ -82,13 +86,16 @@ Songs that have been submitted and are awaiting the submission deadline display 
 Voting is done by ranked choice, and uses this custom list of drag-and-drop players. Competitions are split up into voting groups based the number of submissions made to the competition, and each voting group has between 4 & 9 songs to vote on. Users must listen to at least a minute of each song before submitting their vote. The interface also allows users to give feedback on each song, which the members of each group can view once the competition is over. 
 
 If there were multiple voting groups (more than 9 submissions made to the competition), then the competition will have mulitple rounds, taking the top 3 from each voting group into the next round, doing so until there is only one voting group left. The top 3 songs in the final round will be the winners of the competition.
-
+<br/><br/>
 <br/><br/>
 
-# Project Overview
+
+
+
+# Development Overview
 
 ### Proposal
-OnRecord came to us with a concept for a socila media app for musical collaboration. The idea was to have musicians to sign up, indicating their musical skills and genres of interest in the form, and then match them into time-limited groups, allowing them to collaborate for a couple of weeks, enter competitions with their groups as they please, and get matched with new people when those groups dissolve. They had run a similar program in person on a few college campuses for a few years prior, and felt it was time to expand the project. 
+OnRecord came to us in September 2019 with a concept for a socila media app for musical collaboration. The idea was to have musicians to sign up, indicating their musical skills and genres of interest on the form, and then match them into time-limited groups, allowing them to collaborate for a couple of weeks, enter competitions with their groups as they please, and get matched with new people when those groups dissolve. They had run a similar program in person on a few college campuses for a few years prior, and they felt it was time to expand the project. 
 
 They hoped to build
 - A nice landing page to attract new users
@@ -99,3 +106,8 @@ They hoped to build
 - An in-app currency used to get matches, enter competitions, and become prize-eligible for competitions
 - A custom, parameterized matching algorithm to create bands based on skills and musical interests
 
+
+### Challenges
+There were several challenges in the development of OnRecord, but the the primary challenges were budget and timeline restrictions.
+
+The budget was extremely limited for what they wanted to build. They hired a designer after hosting a design competition, and she did a greate job designing the UI, but with the number of unique feature interfaces & modals they proposed, we knew that we couldn't all fit into the project scope. We agreed start 
