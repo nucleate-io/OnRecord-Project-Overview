@@ -15,4 +15,6 @@ The central node always remains fixed, with peripheral nodes floating nearby, sp
 This interface was entirely custom, and was implemented larely using Framer Motion, which allowed us to create entrance/exit animations and subtle
 floating animations that make the interface seem natural and welcoming. 
 
+The peripheral nodes on this page represent bands that you have been matched into. Clicking on it will take the user to that band's page.
 
+![Band Page](Band_Page.png)
