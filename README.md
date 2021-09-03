@@ -60,7 +60,7 @@ In the end, we delivered a fully functional social-media platform with many valu
 - User engagement metric collection system, used for
 	- Automatic removal from bands if users are inactive for 3 days after being matched
 	- Displaying ‘last active’ status to bandmates
-- Band Page with
+- [Band Page](#band-page) with
 	- Real-time group chat
 	- File sharing (DAW session files, audio files, etc.)
 	- Competition submission system
@@ -69,7 +69,7 @@ In the end, we delivered a fully functional social-media platform with many valu
 	- An invitation system that allows users to
 		- Invite their friends to the platform to join the band
 		- See a list of available musicians who are compatible and choose ones to invite
-- Competition Page
+- [Competition Page](#competitions)
 	- Preview of upcoming competition
 	- Access to user’s submissions either awaiting or active in a competition
 	- List of the user’s last few songs that have been part of a competition, with feedback given for each track
@@ -77,7 +77,7 @@ In the end, we delivered a fully functional social-media platform with many valu
 	- Splitting of users into voting groups based on the number of song submissions
 	- Voting round result calculation 
 	- Voting round advancement (tournament style)
-- Voting Page	
+- [Voting Page	](#voting-page)
   - Unique ranked-choice voting interface with custom drag-and-drop audio players
   - Interface for leaving feedback on each song as they listen
   - Animated background (svg waves that waves fluctuate when a song is playing & freeze when paused)
