@@ -43,8 +43,55 @@ A few months into development, we started to suspect that either there had been 
 
 In the end, it turned out that the founders' agreement with our project manager did not include scope management. This only came to our attention upon a near-collision with the hard limit of the budget. At that point, we had to hit the breaks and re-evaluate the project scope. We agreed to continue only if we could assume the project management role, as the app was still not fully ready, and only we knew what needed to happen in order to get things ready for launch in time and on budget. 
 
-We had to cut a few corners as a result of this roadblock, but in the end, it worked out. we were able to get the app launched and with few issues.
+We had to cut a few corners as a result of this roadblock, but in the end, it worked out. we were able to get the app launched and with few issues. 
 
+
+
+
+<br/><br/><br/><br/>
+### What We Delivered
+In the end, we delivered a fully functional social-media platform with many valuable features
+
+#### Features:
+- Home Page & Signup Funnel
+- Clean & unique graph-based interface with motion animations
+- Custom, parameterized matching algorithm (as serverless cloud function)
+- Email notification system using web-hooks
+- User engagement metric collection system, used for
+	- Automatic removal from bands if users are inactive for 3 days after being matched
+	- Displaying ‘last active’ status to bandmates
+- Band Page with
+	- Real-time group chat
+	- File sharing (DAW session files, audio files, etc.)
+	- Competition submission system
+	- Ability to see bandmate profiles (skills, genres, social media, bio, and last-active time)
+	- Dynamic, collapsable timeline to show users how much time they have left to work
+	- An invitation system that allows users to
+		- Invite their friends to the platform to join the band
+		- See a list of available musicians who are compatible and choose ones to invite
+- Competition Page
+	- Preview of upcoming competition
+	- Access to user’s submissions either awaiting or active in a competition
+	- List of the user’s last few songs that have been part of a competition, with feedback given for each track
+- Completely Automated competition system including
+	- Splitting of users into voting groups based on the number of song submissions
+	- Voting round result calculation 
+	- Voting round advancement (tournament style)
+- Voting Page	
+  - Unique ranked-choice voting interface with custom drag-and-drop audio players
+  - Interface for leaving feedback on each song as they listen
+  - Animated background (svg waves that waves fluctuate when a song is playing & freeze when paused)
+  - Minimum listening time requirement for each song (1 minute or whole song)
+  - Interface that allows users to spend seshpoints in order to become prize eligible
+  - Support for media keys
+  - Countdown timer indicating when the voting window will close
+- Admin Panel
+  - Platform stats (number of users on the platform, number of users awaiting a match, number of active bands, etc)
+  - Drag-and-drop interface for founders to manage bands (move users in and out of bands)
+  - Staging environment for founders to run the algorith, edit the results, and deploy results as they please
+  - Ability to create new bands manually
+
+	
 
 
 <br/><br/><br/><br/>
