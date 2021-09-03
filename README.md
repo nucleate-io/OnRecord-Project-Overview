@@ -22,7 +22,7 @@ OnRecord is a social media platform for musicians that aims to match musicians i
 # Development Overview
 
 ### Proposal
-OnRecord came to us in September 2019 with a concept for a socila media app for musical collaboration. The idea was to have musicians to sign up, indicating their musical skills and genres of interest on the form, and then match them into time-limited groups, allowing them to collaborate for a couple of weeks, enter competitions with their groups as they please, and get matched with new people when those groups dissolve. They had run a similar program in person on a few college campuses for a few years prior, and they felt it was time to expand the project. 
+OnRecord came to us in September 2019 with a concept for a social media app for musical collaboration. The idea was to have musicians sign up, indicating their musical skills and genres of interest on the form, and then match them into time-limited groups, allowing them to collaborate for a couple of weeks, enter competitions with their groups as they please, and get matched with new people when those groups dissolve. They had run a similar program in person on a few college campuses for a few years prior, and they felt it was time to expand the project. 
 
 They hoped to build
 - A nice landing page to attract new users
@@ -35,15 +35,15 @@ They hoped to build
 
 
 ### Challenges
-There were several challenges in the development of OnRecord, but the the primary challenges were budget and timeline restrictions.
+There were several challenges in the development of OnRecord, but the primary challenges were budget and timeline restrictions.
 
-The budget was extremely limited for what they wanted to build. We said that most of what they wanted could probably be achieved within those limits, but this was  they had a design. They decied to pick a designer through a design competition, during which the founders decided to bring on a dedicated project manager. After the design competition, they presented a Figma design, and it was a very well designed UI, but with the number of unique interfaces & modals they proposed, we knew that it wouldn't all fit within the project scope. We had a few conversations about this with the 2 founders and our project manager, but we agreed to start working on on the project, so long as we put the most important features first, adjusting our priorities on a weekly basis.
+The budget was extremely limited for what they wanted to build. We said that most of what they wanted could probably be achieved within those limits, but this was before they had a design. They decided to pick a designer through a design competition, during which the founders decided to bring on a dedicated project manager. After the design competition, they presented a Figma design, and it was a very well-designed UI, but with the number of unique interfaces & modals they proposed, we knew that it wouldn't all fit within the project scope. We had a few conversations about this with the 2 founders and our project manager, but we agreed to start working on the project, so long as we put the most important features first, adjusting our priorities on a weekly basis.
 
-A few months into development, we started to suspect that either there had been a miscomunication of roles or their budget had increased. We were quickly approaching the budgetary limit that we had initially discussed with the founders, and management was still approving many weeks of work on new features. We felt that it was not our place to be making high level decisions about how to move forward, after all, that's what project managers specialize in, and we didn't want to step on his toes.
+A few months into development, we started to suspect that either there had been a miscommunication of roles or their budget had increased. We were quickly approaching the budgetary limit that we had initially discussed with the founders, and management was still approving many weeks of work on new features. We felt that it was not our place to be making high-level decisions about how to move forward, after all, that's what project managers specialize in, and we didn't want to step on his toes.
 
-In the end, it turned out that the founders' agreement with our project manager did not include scope management. This only came to our attention upon a near-collission with the hard limit of the budget. At that point, we had to hit the breaks and re-evaluate the project scope. We agreed to continue only if we could assume the project management role, as the app was still not fully ready, and only we knew what needed to happen in order to get things ready for launch in time and on budget. 
+In the end, it turned out that the founders' agreement with our project manager did not include scope management. This only came to our attention upon a near-collision with the hard limit of the budget. At that point, we had to hit the breaks and re-evaluate the project scope. We agreed to continue only if we could assume the project management role, as the app was still not fully ready, and only we knew what needed to happen in order to get things ready for launch in time and on budget. 
 
-We had to cut a few corners as a result of this roadblock, but in the end it worked out. we were able to get the app launched, and with few issues.
+We had to cut a few corners as a result of this roadblock, but in the end, it worked out. we were able to get the app launched and with few issues.
 
 
 
@@ -110,13 +110,12 @@ Through the sidebar menu, you could access the competitions page, where users ca
 ### User Submissions
 ![User Submissions](Competition_Song_Submissions.png)
 
-Songs that have been submitted and are awaiting the submission deadline display with a countdown timer indicating when they can come back to vote. Submissions that have been submitted to a competition that is open for voting will dispay a "vote now" button
+Songs that have been submitted and are awaiting the submission deadline display with a countdown timer indicating when they can come back to vote. Submissions that have been submitted to a competition that is open for voting will display a "vote now" button
 <br/><br/>
 
 ### Voting Page
 ![Voting Page](Voting_Page.png)
 
-Voting is done by ranked choice, and uses this custom list of drag-and-drop players. Competitions are split up into voting groups based the number of submissions made to the competition, and each voting group has between 4 & 9 songs to vote on. Users must listen to at least a minute of each song before submitting their vote. The interface also allows users to give feedback on each song, which the members of each group can view once the competition is over. 
+Voting is done by ranked-choice, and uses this custom list of drag-and-drop players. Competitions are split up into voting groups based on the number of submissions made to the competition, and each voting group has between 4 & 9 songs to vote on. Users must listen to at least a minute of each song before submitting their vote. The interface also allows users to give feedback on each song, which the members of each group can view once the competition is over. 
 
-If there were multiple voting groups (more than 9 submissions made to the competition), then the competition will have mulitple rounds, taking the top 3 from each voting group into the next round, doing so until there is only one voting group left. The top 3 songs in the final round will be the winners of the competition.
-
+If there were multiple voting groups (more than 9 submissions made to the competition), then the competition will have multiple rounds, taking the top 3 from each voting group into the next round, doing so until there is only one voting group left. The top 3 songs in the final round will be the winners of the competition.
