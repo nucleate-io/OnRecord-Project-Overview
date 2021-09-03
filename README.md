@@ -37,9 +37,7 @@ They hoped to build
 ### Challenges
 There were several challenges in the development of OnRecord, but the the primary challenges were budget and timeline restrictions.
 
-The budget was extremely limited for what they wanted to build. They hired a designer after hosting a design competition, and she did a greate job designing the UI, but with the number of unique feature interfaces & modals they proposed, we knew that we couldn't all fit into the project scope. We agreed start 
-
-
+The budget was extremely limited for what they wanted to build. They hired a designer after hosting a design competition, and she did a greate job designing the UI, but with the number of unique feature interfaces & modals they proposed, we knew that it wouldn't all fit within the project scope. We agreed to start working on on the project, so long as we put the most important features first, adjusting our priorities on a weekly basis.
 
 
 
