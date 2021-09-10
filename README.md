@@ -3,7 +3,7 @@ Overview of our work with OnRecord
 
 Live site is available at [onrecord.online](https://onrecord.online/), however, most functionality is behind signup, but I have included screenshots of the user interface below.
 
-(I'm actively working on this, More will be coming shortly)
+
 <br/><br/>
 
 
