@@ -1,7 +1,7 @@
 # OnRecord-Project-Overview
 Overview of our work with OnRecord
 
-Live site is available at [onrecord.online](https://onrecord.online/), however, most functionality is behind signup, but I have included screenshots of the user interface below.
+Live site is available at [onrecord.online](https://onrecord.online/), however, most functionality is behind signup/matching, so I have included screenshots of the user interface below.
 
 
 <br/><br/>
