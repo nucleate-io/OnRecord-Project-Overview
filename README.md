@@ -1,6 +1,8 @@
 # OnRecord-Project-Overview
 Overview of our work with OnRecord
 
+![App Home](App_Home.png)
+
 Live site is available at [onrecord.online](https://onrecord.online/), however, most functionality is behind signup/matching, so I have included screenshots of the user interface below.
 
 
