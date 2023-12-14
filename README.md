@@ -36,19 +36,6 @@ They hoped to build
 - A custom, parameterized matching algorithm to create bands based on skills and musical interests
 
 
-### Challenges
-There were several challenges in the development of OnRecord, but the primary challenges were budget and timeline restrictions.
-
-The budget was extremely limited for what they wanted to build. We said that most of what they wanted could probably be achieved within those limits, but this was before they had a design. They decided to pick a designer through a design competition, during which the founders decided to bring on a dedicated project manager. After the design competition, they presented a Figma design, and it was a very well-designed UI, but with the number of unique interfaces & modals they proposed, we knew that it wouldn't all fit within the project scope. We had a few conversations about this with the 2 founders and our project manager, but we agreed to start working on the project, so long as we put the most important features first, adjusting our priorities on a weekly basis.
-
-A few months into development, we started to suspect that either there had been a miscommunication of roles or their budget had increased. We were quickly approaching the budgetary limit that we had initially discussed with the founders, and management was still approving many weeks of work on new features. We felt that it was not our place to be making high-level decisions about how to move forward, after all, that's what project managers specialize in, and we didn't want to step on his toes.
-
-In the end, it turned out that the founders' agreement with our project manager did not include scope management. This only came to our attention upon a near-collision with the hard limit of the budget. At that point, we had to hit the breaks and re-evaluate the project scope. We agreed to continue only if we could assume the project management role, as the app was still not fully ready, and only we knew what needed to happen in order to get things ready for launch in time and on budget. 
-
-We had to cut a few corners as a result of this roadblock, but in the end, it worked out. we were able to get the app launched and with few issues. 
-
-
-
 
 <br/><br/><br/><br/>
 ### What We Delivered
